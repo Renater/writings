@@ -31,10 +31,10 @@ services. Le cout énergétique et la dette technique ne sont que rarement pris
 en compte dans la réflexion. Nous obéissons par ce fait à une doxa ambiante depuis
 l'explosion des marchés de l'Internet et de l'informatique personnelle et prendre
 le risque d'éduquer ou responsabiliser l'utilisateur, de pénaliser un usage pour
-des raisons éthiques, c'est se s'exclure d'une compétition ou seuls comptent
+des raisons éthiques, c'est s'exclure d'une compétition ou seuls comptent
 les notions de rentabilité, d'attractivité et de profits immédiats. Toutefois
 nous avons tous, mais à des degrés divers, qu'une grande partie de l'évolution
-des pratiques actuelles ont été mues bien plus par la nécessité de trouver et
+des pratiques actuelles a été mue bien plus par la nécessité de trouver et
 rentabiliser des modèles commerciaux que par la recherche de solutions techniques
 optimales à des besoins réels. Les utilisateurs, conscients ou non de l'impact
 écologique, n'ont d'autre choix que celui de s'adapter aux pratiques de leurs
@@ -83,7 +83,7 @@ désagréables et que j'espère partiellement fausses:
   pour la réduction de la facture énergétique sont parfois rendues inopérantes
   un fonctionnement global. Parallèlement, le renouvellement de nos
   équipements pose des problèmes de rentabilisation financière.
-* répondre au besoins de nouvelles compétences, de développement et de déploiement
+* répondre au besoin de nouvelles compétences, de développement et de déploiement
   de solutions plus vertes est un travail énorme et il n'existe malheureusement pas
   de modèle économique pour le soutenir.
 
