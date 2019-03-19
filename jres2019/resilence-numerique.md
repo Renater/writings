@@ -47,19 +47,15 @@ commencé un travail de réflexion et de sensibilisation dans le tissu associati
 local dans lequel je suis actif, je tire quelques conclusions, certaines très
 désagréables et que j'espère partiellement fausses:
 
-* un discours pédagogique fondé sur des démonstrations simples permettent
-  des prises de conscience à des utilisateurs qui sont plus que jamais sensibles
-  à un discours d'une informatique de la décroissance, ils sont en attente de
-  formation et de solutions. Malheureusement, cette pédagogie ne peut être envisagée
-  massivement qu'avec le concours des médias et mes récentes lectures ne m'encouragent
-  pas à les croire porteurs d'un message responsable. En parallèle,
-  l'enseignement de l'informatique tel que pratiqué par l'éducation nationale
-  ne permet pas aux apprenants de construire une critique objective de leurs
-  pratiques (et les enseignants n'ont souvent pas les connaissances suffisantes
-  pour produire un enseignement adapté). Il nous faut donc envisager trouver d'autres
-  tribunes (ou une prise de conscience politique) pour espérer une adoption de
-  solutions alternatives.
-* parce que ces solutions ont manqué de moyens et de promotion, elles sont à des stades
+* l'urgence de la situation permet un discours général sur l'écologie qui rend
+  l'utilisateur plus ouvert à un numérique raisoné. les utilisateurs sont en
+  attende de formations et de solutions. malheureusement le nombre de personnes
+  touchées par les associations. En parallèle, l'enseignement de l'informatique
+  tel que pratiqué par l'éducation nationale ne permet pas aux apprenants
+  de construire une critique objective de leurs pratiques (et les enseignants
+  n'ont souvent pas les connaissances suffisantes pour produire un enseignement
+  adapté).
+* parce que ces solutions vertes ont manqué de moyens et de promotion, elles sont à des stades
   de développement et d'adoption beaucoup moins avancées que des alternatives très
   énergivores qui ont flatté notre fibre de consommateurs. Aussi, elles ne sont pas
   intégrées aux offres commerciales standard accessibles à l'utilisateur lambda. Cet état
@@ -70,7 +66,7 @@ désagréables et que j'espère partiellement fausses:
   culturels.
 * Les plus jeunes de nos collègues n'ont pas été en contact avec des solutions
   matérielles fortement contraignantes dans les choix techniques. Aussi
-  ces choix sont sont réalisés sur la seule notion de productivité. Cette productivité
+  ces choix sont réalisés sur la seule notion de productivité. Cette productivité
   est mesurée par nos décideurs sur la base de l'évolution fonctionnelle de nos offres
   et la majorité des services informatiques (tout secteurs confondus) sont jugés sur
   la maintenance et l'évolution de cette seule base. Dans ce contexte, il est compliqué
@@ -94,11 +90,12 @@ entreprises n'ont d'autres choix que de polluer ou mourir. Leurs moyens colossau
 ne seront pas engagés dans la bataille pour l'écologie.
 
 Si l'ESR ne dispose pas des mêmes moyens, notre mission est celle de l'intéret général
-et nous ne sommes in fine redevables qu'aux contribuables en attente de solution concrètes.
-Le monde universitaire a su mobiliser ses experts pour prendre une très grande
-part dans l'invention de l'Internet d'hier et il me semble légitime de penser
-que nous avons le devoir, la légitimité et et l'opportunité de participer avec
-autant de force à l'invention de l'Internet de demain: retroussons-nous les
-manches.
+et nous ne sommes redevables qu'aux contribuables. Le monde universitaire avait pris une
+part majeure dans l'Internet d'hier il me semble possible de croire que si une volonté
+politique émerge, que nous avons le devoir, la légitimité et l'opportunité de participer
+avec autant de force à l'invention de l'Internet de demain.
 
+Cet article rend compte de l'état de ma propre réflexion et des spécialistes qui ont bien
+voulu l'enrichir: des propositions concrètes mais aussi une série de questions ouvertes et
+de possibles pistes.
 
