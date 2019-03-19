@@ -11,8 +11,8 @@ frottent les mains en estimant la croissance incessante du marché tout en
 ignorant délibérément ou non les conséquences environnementales de ces nouvelles
 opportunités commerciales alors même que notre jeunesse descend dans la rue
 pour réclamer légitimement le droit à un futur, il me semble qu'il est urgent
-d'ouvrir les yeux sur les pratiques de nos métiers et de faire face aux défis
-qu'il va nous falloir relever.
+d'ouvrir les yeux sur les illusions qui aveuglent notre communauté et de faire
+face aux défis qu'il va nous falloir relever.
 
 Le réveil risque d'être difficile pour tout le monde. Néanmoins, il me semble
 irresponsable de continuer à vivre dans le déni: le numérique a pris une
@@ -89,14 +89,16 @@ désagréables et que j'espère partiellement fausses:
 
 Alors que le secteur privé rend compte à actionnaires dans une optique
 de rentabilité dans un marché hautement concurrentiel et où l'adoption de bonnes
-pratiques est parfois en contradiction avec les modèles économiques, certaines
-entreprises n'ont d'autres choix que de polluer ou mourir, leurs moyens colossaux.
-Si l'ESR ne dispose pas des mêmes moyens, nous ne rendons compte qu'aux contribuables
-en attente de solution concrètes et dans une optique de bien commun.
-Le monde universitaire a su mobiliser ses experts pour prendre une
-très grande part dans l'invention de l'Internet d'hier et il me semble légitime
-de penser que nous avons le devoir, la légitimité et et l'opportunité
-de participer avec autant de force à l'invention de l'Internet de demain:
-retroussons-nous les manches.
+pratiques est souvent en contradiction avec les modèles économiques, certaines
+entreprises n'ont d'autres choix que de polluer ou mourir. Leurs moyens colossaux
+ne seront pas engagés dans la bataille pour l'écologie.
+
+Si l'ESR ne dispose pas des mêmes moyens, notre mission est celle de l'intéret général
+et nous ne sommes in fine redevables qu'aux contribuables en attente de solution concrètes.
+Le monde universitaire a su mobiliser ses experts pour prendre une très grande
+part dans l'invention de l'Internet d'hier et il me semble légitime de penser
+que nous avons le devoir, la légitimité et et l'opportunité de participer avec
+autant de force à l'invention de l'Internet de demain: retroussons-nous les
+manches.
 
 
